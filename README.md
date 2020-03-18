@@ -1,8 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Pics - Xtra Cute picture search engine!
 
 In the project directory, you can run:
+
+
+### Features 
+[x] RESTful API - Shutterstock  
+
+## TODO:
+[] Redux implementation 
+
 
 ### `npm start`
 
