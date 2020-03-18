@@ -6,10 +6,10 @@ In the project directory, you can run:
 
 
 ### Features 
-[x] RESTful API - Shutterstock  
+- [x] RESTful operations - Shutterstock  
 
 ## TODO:
-[] Redux implementation 
+- [] Redux implementation 
 
 
 ### `npm start`
